@@ -2,7 +2,11 @@
 <quiz>
 <question type="pairmatching">
 	<name>
-		<text> d'appariement</text>
+<<<<<<< HEAD
+		
+=======
+		<text>La  question d'appariement</text>
+>>>>>>> 5427d06d4372059802e6368762feca17caf063e2
 	</name>
 	<questiontext format="html">
 		<text>Quelle est la bonne réponse?</text>
