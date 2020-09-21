@@ -2,7 +2,7 @@
 <quiz>
 <question type="pairmatching">
 	<name>
-		<text> question d'appariement</text>
+		<text> d'appariement</text>
 	</name>
 	<questiontext format="html">
 		<text>Quelle est la bonne réponse?</text>
