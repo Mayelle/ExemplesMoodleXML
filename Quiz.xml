@@ -39,7 +39,7 @@
 	<answer fraction="100">
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
-			<text>Bravo !</text>
+			<text>Bravo ! 1 point de plus pour serpentard</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
