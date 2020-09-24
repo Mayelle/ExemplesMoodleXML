@@ -33,11 +33,11 @@
 	<answer fraction="100">
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
-			<text>Bravo ! 1 point de plus pour serpentard</text>
+			<text>Bravo ! 1 point de plus pour pouffesouflle</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une mauvaise réponse ! 1 point en moins pour gryffondor</text>
+		<text>Une mauvaise réponse ! 1 point en moins pour voldemort</text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
