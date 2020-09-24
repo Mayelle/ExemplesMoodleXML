@@ -1,9 +1,9 @@
 <question type="truefalse">
  <answer fraction="50">
     <text>false</text>
-    <feedback><text>Correct!!!</text></feedback>
+    <feedback><text>Correct!!! Ceci est serpentard et poutsouffle les meilleurs maisons</text></feedback>
  </answer>
  <answer fraction="0">
     <text>true</text>
-    <feedback><text>Ooops!!!</text></feedback>
+    <feedback><text>Ooops!!! ceci est gryffondor la pire maison</text></feedback>
  </answer>
