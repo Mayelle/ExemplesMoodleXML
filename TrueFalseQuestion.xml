@@ -1,7 +1,7 @@
 <question type="truefalse">
  <answer fraction="50">
     <text>false</text>
-    <feedback><text>Correct!!! Ceci est serpentard la meilleur maison</text></feedback>
+    <feedback><text>Correct!!! Ceci est serpentard et poutsouffle les meilleurs maisons</text></feedback>
  </answer>
  <answer fraction="0">
     <text>true</text>
