@@ -14,9 +14,9 @@
 		</answer>
 	</subquestion>
 	<subquestion>
-		<text>Premier item de la seconde paire</text>
+		<text>Troisième item de la seconde paire</text>
 		<answer>
-			<text>Second item de la seconde paire</text>
+			<text>Quatrième item de la seconde paire</text>
 		</answer>
 	</subquestion>
 	<shuffleanswers>true</shuffleanswers>
